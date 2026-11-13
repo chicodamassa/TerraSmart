@@ -86,5 +86,5 @@ Sem leitura válida do sensor, todos os comandos, exceto `off`, respondem `409`.
 
 ## Créditos
 
-- **Interface web** (HTML, CSS, JavaScript e pixel art): Guilherme Hiuda. A equipe adaptou a interface à montagem, ajustando os pinos, o nível lógico do relé e os componentes instalados.
+- **Interface web** (HTML, CSS, JavaScript e pixel art): Guilherme Huida. A equipe adaptou a interface à montagem, ajustando os pinos, o nível lógico do relé e os componentes instalados.
 - **Firmware, montagem e relatório:** equipe do Terrário Inteligente (nomes no relatório técnico).
