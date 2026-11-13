@@ -1,0 +1,18 @@
+# Arquivos gerados na compilacao (Arduino IDE / arduino-cli / PlatformIO)
+build/
+.pio/
+*.bin
+*.elf
+*.hex
+*.map
+
+# Arquivo opcional com credenciais locais (nunca versionar)
+secrets.h
+arduino_secrets.h
+
+# Editores e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
